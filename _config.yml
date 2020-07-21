@@ -1,3 +1,5 @@
 url: https://digitalkaizen.es
 name: 'DIGITAL  KAIZEN'
 description: Marketing Digital
+
+theme: jekyll-theme-minimal
